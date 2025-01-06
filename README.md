@@ -19,4 +19,4 @@ Le script ajoute des boutons pour filtrer, réinitialiser le filtrage et rafraî
 
 ## Contribution
 
-Merci @ljere76 pour l'idée (et pour la copie du README de ton projet)
+Merci [@ljere76](https://github.com/ljere76) pour l'idée (et pour la copie du README de ton projet)
